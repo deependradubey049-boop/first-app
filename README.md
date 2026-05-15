@@ -1,1 +1,8 @@
-# first-app
+streamlit
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+pypdf
+google-generativeai
+python-dotenv
